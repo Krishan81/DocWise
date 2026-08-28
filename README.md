@@ -153,7 +153,7 @@ DocWise follows a Retrieval-Augmented Generation (RAG) workflow.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Docwise.git
+git clone https://github.com/Krishan81/DocWise.git
 ```
 
 Move into the project directory:
