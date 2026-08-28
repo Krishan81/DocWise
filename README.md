@@ -238,7 +238,6 @@ Docwise/
 
 ### ⚠️ Important
 
-Never upload `.env` to GitHub.
 
 The repository should contain:
 
@@ -252,7 +251,6 @@ with:
 GEMINI_API_KEY=your_gemini_api_key_here
 ```
 
-but your actual `.env` should remain private.
 
 ---
 
