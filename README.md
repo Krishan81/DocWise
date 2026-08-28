@@ -437,11 +437,11 @@ If an API key is accidentally pushed to GitHub, revoke it immediately and create
 
 ## ⚠️ Limitations
 
-*Gemini API usage limits** — DocWise currently relies on the Gemini API for embeddings, document classification, question answering, and document analysis. The free API tier has usage limits, so repeated testing or processing multiple documents can temporarily cause quota errors.
-*API availability** — Sometimes Gemini requests may fail due to temporary rate limits or high demand. Retrying after some time usually resolves this.
-*Scanned PDFs** — Image-only or scanned PDFs may not work properly because the current version relies on text extraction.
-*Large documents** — Processing many large PDFs can increase processing time, API usage, and memory consumption.
-*Session-based data** — Documents and chat history are currently available only during the active session and aren't permanently stored.
+- **Gemini API usage limits** — DocWise currently relies on the Gemini API for embeddings, document classification, question answering, and document analysis. The free API tier has usage limits, so repeated testing or processing multiple documents can temporarily cause quota errors.
+- **API availability** — Sometimes Gemini requests may fail due to temporary rate limits or high demand. Retrying after some time usually resolves this.
+- **Scanned PDFs** — Image-only or scanned PDFs may not work properly because the current version relies on text extraction.
+- **Large documents** — Processing many large PDFs can increase processing time, API usage, and memory consumption.
+- **Session-based data** — Documents and chat history are currently available only during the active session and aren't permanently stored.
 * Scanned/image-only PDFs may not be processed correctly because they require OCR.
 * Document processing currently depends on Gemini API availability and quota.
 * Embeddings and indexes are primarily handled during the active application session.
