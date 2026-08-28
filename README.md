@@ -376,59 +376,33 @@ Docwise/
 
 ## 🖼️ Screenshots
 
-Add screenshots of your application here after pushing the project to GitHub.
-
 ### 🏠 Main Interface
 
-```text
-Add your screenshot here
-```
-
-Example Markdown:
-
-```markdown
-![DocWise Home](screenshots/home.png)
-```
+<p align="center">
+  <img src="screenshots/1.png" alt="DocWise Home" width="800">
+</p>
 
 ### 📄 Document Upload
 
-```text
-Add your screenshot here
-```
-
-```markdown
-![Document Upload](screenshots/upload.png)
-```
+<p align="center">
+  <img src="screenshots/2.png" alt="DocWise Home" width="800">
+  <img src="screenshots/3.png" alt="DocWise Home" width="800">
+</p>
 
 ### 💬 Document Chat
 
-```text
-Add your screenshot here
-```
-
-```markdown
-![Document Chat](screenshots/chat.png)
-```
+<p align="center">
+  <img src="screenshots/8.png" alt="DocWise Home" width="800">
+</p>
 
 ### 📋 Document Analysis
 
-```text
-Add your screenshot here
-```
-
-```markdown
-![Document Analysis](screenshots/analysis.png)
-```
-
-A recommended screenshot folder structure is:
-
-```text
-screenshots/
-├── home.png
-├── upload.png
-├── chat.png
-└── analysis.png
-```
+<p align="center">
+  <img src="screenshots/4.png" alt="DocWise Home" width="800">
+  <img src="screenshots/5.png" alt="DocWise Home" width="800">
+  <img src="screenshots/6.png" alt="DocWise Home" width="800">
+  <img src="screenshots/7.png" alt="DocWise Home" width="800">
+</p>
 
 ---
 
